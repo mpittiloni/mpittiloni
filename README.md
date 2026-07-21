@@ -1,36 +1,22 @@
 # Hey, I'm Mathieu
 
-Dubai | Product builder | Software engineer
+Dubai & Marrakech | Product builder | Software engineer
 
 I've spent over **15 years** shipping software across startups, agencies, and enterprise. Now I'm building independent products with a focus on useful, well-crafted software.
 
+[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat-square)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat-square)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat-square)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff&style=flat-square)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat-square)](#)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)](#)
-[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat-square)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=fff&style=flat-square)](#)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=fff&style=flat-square)](#)
+[![Codex](https://img.shields.io/badge/Codex-000?logo=openai&logoColor=fff&style=flat-square)](#)
 [![macOS](https://img.shields.io/badge/macOS-000?logo=apple&logoColor=fff&style=flat-square)](#)
 
-## Start Here
+## Projects
 
 - **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — A native macOS menu-bar app that notifies you when devices join or leave your Tailscale network. [Download the latest release](https://github.com/mpittiloni/tailwatch/releases/latest).
 - **[FiftyOne](https://fiftyone.ae)** — The independent products and businesses I'm building.
-
-## Current Projects
-
-### macOS & Developer Tools
-
-- **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — Online and offline notifications for Tailscale devices, without an API key or hosted service.
-
-### Independent Products
-
-- **[FiftyOne](https://fiftyone.ae)** — Building and launching focused software businesses.
 
 ## Connect
 
