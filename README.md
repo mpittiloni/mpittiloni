@@ -17,7 +17,7 @@ I've spent over **15 years** shipping software across startups, agencies, and en
 
 ### macOS & Developer Tools
 
-- **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — Online and offline notifications for Tailscale devices, without an API key or hosted service. [Download the latest release](https://github.com/mpittiloni/tailwatch/releases/latest).
+- **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — Native macOS notifications for Tailscale devices. [Latest release](https://github.com/mpittiloni/tailwatch/releases/latest).
 
 ### Independent Products
 
