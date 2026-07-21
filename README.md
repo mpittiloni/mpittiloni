@@ -15,8 +15,13 @@ I've spent over **15 years** shipping software across startups, agencies, and en
 
 ## Projects
 
-- **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — A native macOS menu-bar app that notifies you when devices join or leave your Tailscale network. [Download the latest release](https://github.com/mpittiloni/tailwatch/releases/latest).
-- **[FiftyOne](https://fiftyone.ae)** — The independent products and businesses I'm building.
+### macOS & Developer Tools
+
+- **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — Online and offline notifications for Tailscale devices, without an API key or hosted service. [Download the latest release](https://github.com/mpittiloni/tailwatch/releases/latest).
+
+### Independent Products
+
+- **[FiftyOne](https://fiftyone.ae)** — Building and launching focused software businesses.
 
 ## Connect
 
