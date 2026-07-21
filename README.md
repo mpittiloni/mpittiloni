@@ -1,8 +1,8 @@
 # Hey, I'm Mathieu
 
-I've been building and working in digital for over **15 years**.
+Dubai | Product builder | Software engineer
 
-From software engineering to product development, I've shipped across startups, agencies, and enterprise — always with a focus on craft and impact.
+I've spent over **15 years** shipping software across startups, agencies, and enterprise. Now I'm building independent products with a focus on useful, well-crafted software.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat-square)](#)
@@ -17,11 +17,20 @@ From software engineering to product development, I've shipped across startups, 
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=fff&style=flat-square)](#)
 [![macOS](https://img.shields.io/badge/macOS-000?logo=apple&logoColor=fff&style=flat-square)](#)
 
-## What I Do
+## Start Here
 
-I build software products. Currently focused on launching multiple independent businesses.
+- **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — A native macOS menu-bar app that notifies you when devices join or leave your Tailscale network. [Download the latest release](https://github.com/mpittiloni/tailwatch/releases/latest).
+- **[FiftyOne](https://fiftyone.ae)** — The independent products and businesses I'm building.
 
-👉 **[fiftyone.ae](https://fiftyone.ae)** — Learn more about what I'm working on
+## Current Projects
+
+### macOS & Developer Tools
+
+- **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — Online and offline notifications for Tailscale devices, without an API key or hosted service.
+
+### Independent Products
+
+- **[FiftyOne](https://fiftyone.ae)** — Building and launching focused software businesses.
 
 ## Connect
 
@@ -29,7 +38,3 @@ I build software products. Currently focused on launching multiple independent b
 [![LinkedIn](https://img.shields.io/badge/Mathieu%20Pittiloni-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://linkedin.com/in/mpittiloni)
 [![Website](https://img.shields.io/badge/fiftyone.ae-FF6B35?logo=safari&logoColor=fff&style=flat-square)](https://fiftyone.ae)
 [![Follow](https://img.shields.io/github/followers/mpittiloni?label=Follow&logo=github&style=flat-square)](https://github.com/mpittiloni)
-
----
-
-*Based in Dubai*
