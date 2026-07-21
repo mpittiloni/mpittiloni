@@ -19,7 +19,7 @@ I've spent over **15 years** shipping software across startups, agencies, and en
 
 - **[Tailwatch](https://github.com/mpittiloni/tailwatch)** — Native macOS notifications for Tailscale devices. [Latest release](https://github.com/mpittiloni/tailwatch/releases/latest).
 
-### Independent Products
+### Independent Ventures
 
 - **[FiftyOne](https://fiftyone.ae)** — Building and launching focused software businesses.
 - **[Arketik](https://www.arketik.com)** — Custom digital products, platforms, and experiences.
