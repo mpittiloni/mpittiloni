@@ -22,6 +22,7 @@ I've spent over **15 years** shipping software across startups, agencies, and en
 ### Independent Products
 
 - **[FiftyOne](https://fiftyone.ae)** — Building and launching focused software businesses.
+- **[Arketik](https://www.arketik.com)** — Custom digital products, platforms, and experiences.
 
 ## Connect
 
